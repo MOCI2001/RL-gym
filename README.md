@@ -1,4 +1,5 @@
 # RL-gym
 
-`$pip install gym`
+## required packages
+`$pip install gym`<br />
 `$pip install stable_baselines3`
