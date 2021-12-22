@@ -17,6 +17,25 @@ Gym cartpole sample codes<br>
 
 `python q_learning.py`<br>
 
+## SB3
+`cd SB3`<br>
+
+RL Humanoid examples:
+* humanoid_a2c.py
+* humanoid_ddpg.py
+* humanoid_ppo.py
+* humanoidrun_a2c.py
+
+`python humanoid_a2c.py`
+
+RL inverted-pendulum examples:
+* invertedpendulum_a2c.py
+* invertedpendulum_ddpg.py
+* invertedpendulum_sac.py
+* invertedpendulum_td3.py
+
+`python invertedpendulum_ddpg.py`
+
 ## mario
 [Tutorial: Train a Mario-playing RL Agent](https://pytorch.org/tutorials/intermediate/mario_rl_tutorial.html)<br>
 Repro [Github](https://github.com/yuansongFeng/MadMario/)<br>
@@ -29,16 +48,3 @@ To train : (epochs=40000)<br>
 To replay: ("trained_mario.chkpt")<br>
 `python replay.py`<br>
 ![](https://pytorch.org/tutorials/_images/mario.gif)
-
-## SB3
-RL Humanoid examples:
-* humanoid_a2c.py
-* humanoid_ddpg.py
-* humanoid_ppo.py
-* humanoidrun_a2c.py
-
-RL inverted-pendulum examples:
-* invertedpendulum_a2c.py
-* invertedpendulum_ddpg.py
-* invertedpendulum_sac.py
-* invertedpendulum_td3.py
