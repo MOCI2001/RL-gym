@@ -3,7 +3,6 @@
 ## required packages
 `pip install stable_baselines3`<br>
 `pip install gym[atari]`<br>
-`pip install gym-super-mario-bros`<br>
 `git clone https://github.com/rkuo2000/RL-Gym`<br>
 `cd RL-Gym`<br>
 
@@ -32,6 +31,7 @@ Gym cartpole sample codes<br>
 ## mario
 [Tutorial: Train a Mario-playing RL Agent](https://pytorch.org/tutorials/intermediate/mario_rl_tutorial.html)<br>
 Repro [Github](https://github.com/yuansongFeng/MadMario/)<br>
+`pip install gym-super-mario-bros`<br>
 `cd mario`
 
 *Training time is around 80 hours on CPU and 20 hours on GPU.*<br>
