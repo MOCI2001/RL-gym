@@ -9,17 +9,15 @@
 
 ## cartpole 
 Gym cartpole sample codes<br>
-`cd cartpole`
-
 * random_action.py
 * q_learn.py
 * dqn.py
 * ddqn.py
 
+`cd cartpole`<br>
 `python q_learning.py`
 
 ## SB3
-`cd SB3`
 
 * cartpole_a2c.py
 * cartpole_dqn.py
@@ -28,6 +26,7 @@ Gym cartpole sample codes<br>
 * pendulum_sac.py
 * pendulum_td3.py
 
+`cd SB3`<br>
 `python pendulum_ddpg.py`
 
 ## mario
