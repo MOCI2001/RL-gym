@@ -10,8 +10,12 @@ Gym cartpole: q_learning.py, dqn.py ddqn.py
 `python q_learning.py`
 
 ## mario
-RL SuperMarioBros
-
+RL SuperMarioBros using DDQN
+`cd mario`
+To train : (epochs=40000)<br>
+`python main.py`
+To replay: ("trained_mario.chkpt")<br>
+`python replay.py` 
 
 ## SB3
 RL Humanoid examples:
