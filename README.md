@@ -20,6 +20,7 @@ To train : (epochs=40000)<br>
 `python main.py`<br>
 To replay: ("trained_mario.chkpt")<br>
 `python replay.py`<br>
+![](https://pytorch.org/tutorials/_images/mario.gif)
 
 ## SB3
 RL Humanoid examples:
