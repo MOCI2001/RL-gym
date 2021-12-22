@@ -11,7 +11,8 @@ Gym cartpole sample codes
 * q_learn.py
 * dqn.py
 * ddqn.py
-`python q_learning.py`
+* 
+`python q_learning.py`<br>
 
 ## mario
 [Tutorial: Train a Mario-playing RL Agent](https://pytorch.org/tutorials/intermediate/mario_rl_tutorial.html)<br>
