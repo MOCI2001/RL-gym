@@ -4,9 +4,11 @@
 `pip install stable_baselines3`<br>
 `pip install gym[atari]`<br>
 `pip install gym-super-mario-bros`<br>
+`git clone https://github.com/rkuo2000/RL-Gym`<br>
 
 ## cartpole 
 Gym cartpole sample codes
+`cd cartpole`
 * random_action.py
 * q_learn.py
 * dqn.py
