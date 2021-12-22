@@ -14,7 +14,8 @@ Gym cartpole sample codes
 `python q_learning.py`
 
 ## mario
-RL SuperMarioBros using DDQN<br>
+Repro [Github](https://github.com/yuansongFeng/MadMario/)<br>
+[Tutorial: Train a Mario-playing RL Agent](https://pytorch.org/tutorials/intermediate/mario_rl_tutorial.html)<br>
 Training time is around 80 hours on CPU and 20 hours on GPU.<br>
 
 `cd mario`<br>
