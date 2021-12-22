@@ -6,16 +6,20 @@
 `pip install gym-super-mario-bros`<br>
 
 ## cartpole 
-Gym cartpole: q_learning.py, dqn.py ddqn.py
+Gym cartpole sample codes
+* random_action.py
+* q_learn.py
+* dqn.py
+* ddqn.py
 `python q_learning.py`
 
 ## mario
-RL SuperMarioBros using DDQN
-`cd mario`
+RL SuperMarioBros using DDQN<br>
+`cd mario`<br>
 To train : (epochs=40000)<br>
-`python main.py`
+`python main.py`<br>
 To replay: ("trained_mario.chkpt")<br>
-`python replay.py` 
+`python replay.py`<br>
 
 ## SB3
 RL Humanoid examples:
