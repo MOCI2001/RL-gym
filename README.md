@@ -29,4 +29,3 @@ RL inverted-pendulum examples:
 * invertedpendulum_ddpg.py
 * invertedpendulum_sac.py
 * invertedpendulum_td3.py
-* 
