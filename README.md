@@ -21,21 +21,14 @@ Gym cartpole sample codes<br>
 ## SB3
 `cd SB3`
 
-RL Humanoid examples:
-* humanoid_a2c.py
-* humanoid_ddpg.py
-* humanoid_ppo.py
-* humanoidrun_a2c.py
+* cartpole_a2c.py
+* cartpole_dqn.py
+* cartpole_ppo.py
+* pendulum_ddpg.py
+* pendulum_sac.py
+* pendulum_td3.py
 
-`python humanoid_a2c.py`
-
-RL inverted-pendulum examples:
-* invertedpendulum_a2c.py
-* invertedpendulum_ddpg.py
-* invertedpendulum_sac.py
-* invertedpendulum_td3.py
-
-`python invertedpendulum_ddpg.py`
+`python pendulum_ddpg.py`
 
 ## mario
 [Tutorial: Train a Mario-playing RL Agent](https://pytorch.org/tutorials/intermediate/mario_rl_tutorial.html)<br>
