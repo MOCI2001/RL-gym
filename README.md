@@ -6,10 +6,23 @@
 `pip install gym-super-mario-bros`<br>
 
 ## cartpole 
-RL sample codes for cartpole
+Gym cartpole: q_learning.py, dqn.py ddqn.py
+`python q_learning.py`
 
 ## mario
-RL sample codes for SuperMarioBros
+RL SuperMarioBros
+
 
 ## SB3
-sample codes for SB3 using Gym
+RL Humanoid examples:
+* humanoid_a2c.py
+* humanoid_ddpg.py
+* humanoid_ppo.py
+* humanoidrun_a2c.py
+
+RL inverted-pendulum examples:
+* invertedpendulum_a2c.py
+* invertedpendulum_ddpg.py
+* invertedpendulum_sac.py
+* invertedpendulum_td3.py
+* 
