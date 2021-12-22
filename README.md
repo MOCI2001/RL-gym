@@ -14,13 +14,14 @@ Gym cartpole sample codes
 `python q_learning.py`
 
 ## mario
-Repro [Github](https://github.com/yuansongFeng/MadMario/)<br>
 [Tutorial: Train a Mario-playing RL Agent](https://pytorch.org/tutorials/intermediate/mario_rl_tutorial.html)<br>
-Training time is around 80 hours on CPU and 20 hours on GPU.<br>
-
+Repro [Github](https://github.com/yuansongFeng/MadMario/)<br>
 `cd mario`<br>
+
+*Training time is around 80 hours on CPU and 20 hours on GPU.*<br>
 To train : (epochs=40000)<br>
 `python main.py`<br>
+
 To replay: ("trained_mario.chkpt")<br>
 `python replay.py`<br>
 ![](https://pytorch.org/tutorials/_images/mario.gif)
