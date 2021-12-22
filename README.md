@@ -11,7 +11,7 @@ Gym cartpole sample codes
 * q_learn.py
 * dqn.py
 * ddqn.py
-* 
+
 `python q_learning.py`<br>
 
 ## mario
