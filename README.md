@@ -47,4 +47,5 @@ To train : (epochs=40000)<br>
 
 To replay: ("trained_mario.chkpt")<br>
 `python replay.py`
+
 ![](https://pytorch.org/tutorials/_images/mario.gif)
