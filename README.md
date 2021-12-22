@@ -5,6 +5,7 @@
 `pip install gym[atari]`<br>
 `pip install gym-super-mario-bros`<br>
 `git clone https://github.com/rkuo2000/RL-Gym`<br>
+`cd RL-Gym`<br>
 
 ## cartpole 
 Gym cartpole sample codes<br>
