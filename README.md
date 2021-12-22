@@ -7,8 +7,9 @@
 `git clone https://github.com/rkuo2000/RL-Gym`<br>
 
 ## cartpole 
-Gym cartpole sample codes
-`cd cartpole`
+Gym cartpole sample codes<br>
+`cd cartpole`<br>
+
 * random_action.py
 * q_learn.py
 * dqn.py
