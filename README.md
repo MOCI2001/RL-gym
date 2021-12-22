@@ -8,17 +8,17 @@
 
 ## cartpole 
 Gym cartpole sample codes<br>
-`cd cartpole`<br>
+`cd cartpole`
 
 * random_action.py
 * q_learn.py
 * dqn.py
 * ddqn.py
 
-`python q_learning.py`<br>
+`python q_learning.py`
 
 ## SB3
-`cd SB3`<br>
+`cd SB3`
 
 RL Humanoid examples:
 * humanoid_a2c.py
@@ -39,12 +39,12 @@ RL inverted-pendulum examples:
 ## mario
 [Tutorial: Train a Mario-playing RL Agent](https://pytorch.org/tutorials/intermediate/mario_rl_tutorial.html)<br>
 Repro [Github](https://github.com/yuansongFeng/MadMario/)<br>
-`cd mario`<br>
+`cd mario`
 
 *Training time is around 80 hours on CPU and 20 hours on GPU.*<br>
 To train : (epochs=40000)<br>
-`python main.py`<br>
+`python main.py`
 
 To replay: ("trained_mario.chkpt")<br>
-`python replay.py`<br>
+`python replay.py`
 ![](https://pytorch.org/tutorials/_images/mario.gif)
