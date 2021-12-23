@@ -35,11 +35,12 @@ Gym cartpole sample codes<br>
 
 * pong_a2c.py
 * breakout_ppo.py
-* lunarlander_dqn.py
+* lunarlander_a2c.py
 
 &emsp;You can use Kaggle to train above game agents, then download the .zip to play on PC<br>
-&emsp;`python pong_a2c.py`<br> 
-&emsp;`python play_pong.py`<br>
+&emsp;`python lunarlander_a2c.py`<br> 
+&emsp;`python play_lunarlander.py`<br>
+&emsp;`python gif_lunarlander.py`<br>
 
 ## mario
 [Tutorial: Train a Mario-playing RL Agent](https://pytorch.org/tutorials/intermediate/mario_rl_tutorial.html)<br>
