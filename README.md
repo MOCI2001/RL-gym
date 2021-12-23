@@ -17,16 +17,29 @@ Gym cartpole sample codes<br>
 `python q_learning.py`
 
 ## SB3
+`cd SB3`<br>
 
 * cartpole_a2c.py
 * cartpole_dqn.py
 * cartpole_ppo.py
+
+&emsp;`python cartple_a2c.py`<br>
+&emsp;`python play_cartpole.py`<br>
+
 * pendulum_ddpg.py
 * pendulum_sac.py
 * pendulum_td3.py
 
-`cd SB3`<br>
-`python pendulum_ddpg.py`
+&emsp;`python pendulum_ddpg.py`<br>
+&emsp;`python play_pendulum.py`<br>
+
+* pong_a2c.py
+* breakout_ppo.py
+* lunarlander_dqn.py
+
+&emsp;You can use Kaggle to train above game agents, then download the .zip to play on PC<br>
+&emsp;`python pong_a2c.py`<br> 
+&emsp;`python play_pong.py`<br>
 
 ## mario
 [Tutorial: Train a Mario-playing RL Agent](https://pytorch.org/tutorials/intermediate/mario_rl_tutorial.html)<br>
