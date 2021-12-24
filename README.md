@@ -16,6 +16,11 @@ Gym cartpole sample codes<br>
 `cd cartpole`<br>
 `python q_learning.py`
 
+## stock
+`cd stock`<br>
+`python stock_dqn.py GOOGL`<br>
+`python play_stock.py GOOGL`<br>
+
 ## SB3
 `cd SB3`<br>
 
