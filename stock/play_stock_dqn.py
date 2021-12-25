@@ -12,7 +12,7 @@ from tensorflow.keras.optimizers import Adam
 
 stock_name  = sys.argv[1] # 'GOOGL' / 'MSFT' / 'AAPL'
 model_name  = stock_name+'_DQN_0.h5'
-window_size = 10 # working days
+window_size = 50 # working days
 
 start_t = time.time()
 
