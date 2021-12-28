@@ -24,28 +24,23 @@ Gym cartpole sample codes<br>
 ## SB3
 `cd SB3`<br>
 
-* cartpole_a2c.py
-* cartpole_dqn.py
-* cartpole_ppo.py
+**DQN, A2C, PPO**<br>
+`python train_cartple.py`<br>
+`python play_cartpole.py`<br>
 
-&emsp;`python cartple_a2c.py`<br>
-&emsp;`python play_cartpole.py`<br>
+**DDPG, SAC, TD3**<br>
+`python train_pendulum.py`<br>
+`python play_pendulum.py`<br>
 
-* pendulum_ddpg.py
-* pendulum_sac.py
-* pendulum_td3.py
-
-&emsp;`python pendulum_ddpg.py`<br>
-&emsp;`python play_pendulum.py`<br>
 
 * pong_a2c.py
 * breakout_ppo.py
 * lunarlander_a2c.py
-
-&emsp;You can use Kaggle to train above game agents, then download the .zip to play on PC<br>
-&emsp;`python lunarlander_a2c.py`<br> 
-&emsp;`python play_lunarlander.py`<br>
-&emsp;`python gif_lunarlander.py`<br>
+* 
+**LunarLander**<br>
+`python train_lunarlander.py`<br> 
+`python play_lunarlander.py`<br>
+`python gif_lunarlander.py`<br>
 
 ## mario
 [Tutorial: Train a Mario-playing RL Agent](https://pytorch.org/tutorials/intermediate/mario_rl_tutorial.html)<br>
