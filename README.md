@@ -18,8 +18,8 @@ Gym cartpole sample codes<br>
 `python q_learning.py`<br>
 `python dqn.py`<br>
 
-## SB3
-`cd SB3`<br>
+## sb3
+`cd sb3`<br>
 
 **DQN, A2C, PPO**<br>
 `python train_cartple.py`<br>
