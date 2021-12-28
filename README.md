@@ -35,9 +35,12 @@ Gym cartpole sample codes<br>
 `python gif_lunarlander.py`<br>
 ![](./assets/lunarlander.gif)
 
-**Pong**<br>
-
-**Breakout**<br>
+## atari
+* envID_v0.py : envID-v0 dictionary
+* envID_v4.py : envID-v4 dictionary
+`python try_atari.py phoenix`<br>
+`python train_atari.py spaceinvaders 1000000`<br>
+`python play_atari.py spaceinvaders`<br>
 
 ## mario
 [Tutorial: Train a Mario-playing RL Agent](https://pytorch.org/tutorials/intermediate/mario_rl_tutorial.html)<br>
