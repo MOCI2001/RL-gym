@@ -14,8 +14,9 @@ Gym cartpole sample codes<br>
 * ddqn.py
 
 `cd cartpole`<br>
-`python q_learning.py`
-`python dqn.py`
+`python random_action.py`<br>
+`python q_learning.py`<br>
+`python dqn.py`<br>
 
 ## SB3
 `cd SB3`<br>
