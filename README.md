@@ -27,14 +27,12 @@ Gym cartpole sample codes<br>
 **DDPG, SAC, TD3**<br>
 `python train_pendulum.py`<br>
 `python play_pendulum.py`<br>
-
-* pong_a2c.py
-* breakout_ppo.py
  
 **LunarLander**<br>
 `python train_lunarlander.py`<br> 
 `python play_lunarlander.py`<br>
 `python gif_lunarlander.py`<br>
+![]('./assets/lunarlander.gif')
 
 **Pong**<br>
 
