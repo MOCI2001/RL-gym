@@ -32,7 +32,7 @@ Gym cartpole sample codes<br>
 `python train_lunarlander.py`<br> 
 `python play_lunarlander.py`<br>
 `python gif_lunarlander.py`<br>
-![]('./assets/lunarlander.gif')
+![](./assets/lunarlander.gif)
 
 **Pong**<br>
 
