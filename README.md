@@ -15,11 +15,7 @@ Gym cartpole sample codes<br>
 
 `cd cartpole`<br>
 `python q_learning.py`
-
-## stock
-`cd stock`<br>
-`python stock_dqn.py GOOGL`<br>
-`python play_stock.py GOOGL`<br>
+`python dqn.py`
 
 ## SB3
 `cd SB3`<br>
@@ -32,15 +28,17 @@ Gym cartpole sample codes<br>
 `python train_pendulum.py`<br>
 `python play_pendulum.py`<br>
 
-
 * pong_a2c.py
 * breakout_ppo.py
-* lunarlander_a2c.py
-* 
+ 
 **LunarLander**<br>
 `python train_lunarlander.py`<br> 
 `python play_lunarlander.py`<br>
 `python gif_lunarlander.py`<br>
+
+**Pong**<br>
+
+**Breakout**<br>
 
 ## mario
 [Tutorial: Train a Mario-playing RL Agent](https://pytorch.org/tutorials/intermediate/mario_rl_tutorial.html)<br>
@@ -56,3 +54,8 @@ To replay: ("trained_mario.chkpt")<br>
 `python replay.py`
 
 ![](https://pytorch.org/tutorials/_images/mario.gif)
+
+## stock
+`cd stock`<br>
+`python stock_dqn.py GOOGL`<br>
+`python play_stock.py GOOGL`<br>
