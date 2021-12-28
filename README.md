@@ -43,9 +43,8 @@ Gym cartpole sample codes<br>
 `python train_atari.py spaceinvaders 1000000`<br>
 `python play_atari.py spaceinvaders`<br>
 
-## mario
+## [mario](https://github.com/yuansongFeng/MadMario/)
 [Tutorial: Train a Mario-playing RL Agent](https://pytorch.org/tutorials/intermediate/mario_rl_tutorial.html)<br>
-Repro [Github](https://github.com/yuansongFeng/MadMario/)<br>
 `pip install gym-super-mario-bros`<br>
 `cd mario`
 
