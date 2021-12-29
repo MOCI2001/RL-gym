@@ -35,7 +35,7 @@ Gym cartpole sample codes<br>
  
 **Enjoy + Gif**<br>
 `python enjoy_gif.py LunarLander`<br>
-![](./assets/lunarlander.gif)
+![](./assets/LunarLander.gif)
 
 ### Atari
 Env Name listed in Env_Name.txt<br>
