@@ -1,4 +1,4 @@
-# RL-Gym
+# RL-gym
 
 ## required packages
 `pip install stable_baselines3`<br>
@@ -7,7 +7,7 @@
 `cd RL-Gym`<br>
 
 ## cartpole 
-Gym cartpole sample codes<br>
+cartpole sample codes<br>
 * random_action.py
 * q_learn.py
 * dqn.py
@@ -23,9 +23,9 @@ Gym cartpole sample codes<br>
 
 ### CartPole, Pendulum, LunarLander
 **Train**<br>
-`python train.py CartPole 32000`<br>
-`python train.py Pendulum 32000`<br>
-`python train.py LunarLander 500000`<br>
+`python train.py CartPole 160000`<br>
+`python train.py Pendulum 640000`<br>
+`python train.py LunarLander 480000`<br>
 
 **Enjoy**<br>
 `python enjoy.py CartPole`<br>
