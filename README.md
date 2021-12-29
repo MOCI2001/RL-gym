@@ -35,6 +35,7 @@ Gym cartpole sample codes<br>
 **Enjoy + Gif**<br>
 `python enjoy_gif.py CartPole`<br>
 ![](./assets/CartPole.gif)
+
 `python enjoy_gif.py LunarLander`<br>
 ![](./assets/LunarLander.gif)
 
