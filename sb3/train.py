@@ -1,7 +1,7 @@
 ## pip install stable-baselines3
 ## pip install Box2D box2d-py  (For LunarLander)
-# Usage: python train.py CartPole 32000
-# Usage: python train.py Pendulum 32000
+# Usage: python train.py CartPole 320000
+# Usage: python train.py Pendulum 320000
 # Usage: python train.py LunarLander 500000
 
 import sys
