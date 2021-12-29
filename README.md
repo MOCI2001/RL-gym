@@ -26,6 +26,7 @@ Gym cartpole sample codes<br>
 `python train.py CartPole 32000`<br>
 `python train.py Pendulum 32000`<br>
 `python train.py LunarLander 500000`<br>
+![](./assets/CartPole.gif)
 
 **Enjoy**<br>
 `python enjoy.py CartPole`<br>
