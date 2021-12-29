@@ -21,27 +21,26 @@ Gym cartpole sample codes<br>
 ## sb3
 `cd sb3`<br>
 
-**DQN, A2C, PPO**<br>
-`python train_cartple.py`<br>
-`python play_cartpole.py`<br>
+### CartPole, Pendulum, LunarLander
+**Train**<br>
+`python train.py CartPole 32000`<br>
+`python train.py Pendulum 32000`<br>
+`python train.py LunarLander 500000`<br>
 
-**DDPG, SAC, TD3**<br>
-`python train_pendulum.py`<br>
-`python play_pendulum.py`<br>
+**Enjoy**<br>
+`python enjoy.py CartPole`<br>
+`python enjoy.py Pendulum`<br>
+`python enjoy.py LunarLander`<br>
  
-**LunarLander**<br>
-`python train_lunarlander.py`<br> 
-`python play_lunarlander.py`<br>
-`python gif_lunarlander.py`<br>
+**Enjoy + Gif**<br>
+`python enjoy_gif.py LunarLander`<br>
 ![](./assets/lunarlander.gif)
 
-## atari
-* envID_v0.py : envID-v0 dictionary
-* envID_v4.py : envID-v4 dictionary
+### Atari
+Env Name listed in Env_Name.txt<br>
 
-`python try_atari.py phoenix`<br>
-`python train_atari.py spaceinvaders 1000000`<br>
-`python play_atari.py spaceinvaders`<br>
+`python train_atari.py Pong 10000000`<br>
+`python enjoy_atari.py Pong`<br>
 
 ## [mario](https://github.com/yuansongFeng/MadMario/)
 [Tutorial: Train a Mario-playing RL Agent](https://pytorch.org/tutorials/intermediate/mario_rl_tutorial.html)<br>
