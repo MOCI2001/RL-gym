@@ -1,6 +1,6 @@
 ## pip install stable-baselines3
 ## pip install gym[atari] (For Windows, pip install --no-index -f https://github.com/Kojoley/atari-py/releases atari-py)
-# Usage: python train.py Pong 16000
+# Usage: python train.py Pong 10000000
 # Env_Name: listed in Env_Name.txt
 
 import sys
