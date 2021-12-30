@@ -63,7 +63,7 @@ def getStockDataVec(key):
     vec = []
     dat = []
     lines = open(key+".csv","r").read().splitlines()
-    for line in lines[1:]: # open, hight, low, close, volume
+    for line in lines[1:]: # open, high, low, close, volume
         vec.append(float(line.split(",")[4])) 
         dat.append(line.split(",")[0])
     return vec, dat 
