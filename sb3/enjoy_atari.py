@@ -7,9 +7,6 @@ from stable_baselines3 import DQN, A2C, PPO, SAC, DDPG, TD3
 #from stable_baselines3.common.env_util import make_atari_env
 #from stable_baselines3.common.vec_env import VecFrameStack
 
-from ale_py import ALEInterface
-ale = ALEInterface()
-
 env_name = sys.argv[1]
 
 env = gym.make('ALE/'+env_name)
