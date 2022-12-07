@@ -7,7 +7,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 #from tensorflow.keras.optimizers import Adam
 
-EPISODES = 10
+EPISODES = 1
 
 class DQNAgent:
     def __init__(self, state_size, action_size):
